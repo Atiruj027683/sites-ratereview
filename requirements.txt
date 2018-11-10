@@ -3,3 +3,5 @@ olefile==0.44
 pillow==4.0.0
 pytz==2017.2
 djangorestframework
+selenium
+chromedriver
